@@ -1,0 +1,506 @@
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\NguyenKhacHuy\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Quin\Desktop\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Quin\Downloads\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\RdlCompile.cache
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+C:\Users\KhacHuy\OneDrive\Máy tính\QuanLyKhachSan (2)\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\tungm\Documents\12DHBM04\HOCKI_5\.NET\QuanLyKhachSan (2)\QuanLyKhachSan (2) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.manifest
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.application
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.manifest
+D:\DotNet\QuanLyKhachSan (2) (1) (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.application
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.manifest
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.application
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCao.resources
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Home.resources
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DangNhap.resources
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinCaNhan.resources
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.manifest
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.application
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\DotNet\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

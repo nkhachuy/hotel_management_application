@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyKhachSan", "QuanLyKhachSan\QuanLyKhachSan.csproj", "{16B75163-4E23-43CF-AB4E-70E212A5A4F6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuanLyKhachSanSetup", "..\QuanLyKhachSanSetup\QuanLyKhachSanSetup.vdproj", "{F00A7907-8E9B-43B0-A2B7-91DDB72294C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B75163-4E23-43CF-AB4E-70E212A5A4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B75163-4E23-43CF-AB4E-70E212A5A4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B75163-4E23-43CF-AB4E-70E212A5A4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B75163-4E23-43CF-AB4E-70E212A5A4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00A7907-8E9B-43B0-A2B7-91DDB72294C4}.Debug|Any CPU.ActiveCfg = Debug
+		{F00A7907-8E9B-43B0-A2B7-91DDB72294C4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86CCE43F-39B2-44C9-A602-36C3E303D17A}
+	EndGlobalSection
+EndGlobal
